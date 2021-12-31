@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dinesh-port.netlify.app/](https://dinesh-port.netlify.app/)
 
-- 💬 Ask me about **react, node.js, Mongo Db and Express**
+- 💬 Ask me about **React.js, Node.js, Mongo Db and Express**
 
 - 📫 How to reach me **dineshbabu0831@gmail.com**
 

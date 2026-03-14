@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinesh</h1>
-<h3 align="center">Full Stack Developer & Feature Lead | 3+ Years Experience</h3>
+<h3 align="center">Full Stack Developer & Feature Lead | 4 Years Experience</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=31322f" />
